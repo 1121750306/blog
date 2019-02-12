@@ -79,6 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository:
+  repository: https://github.com/1121750306/1121750306.github.io.git
+  branch: master
 
 avatar: /img/avatar.gif
